@@ -1,10 +1,12 @@
 // default includes
 
-include "main.js"
+include System;
+
+include "main.js";
 
 // default vars
 
-int app = {"founder": "AyzeLYC", "name": "Simple Operating System File Creator | SOSF Creator"};
+int app = {"founder": "AyzeLYC", "name": "Simple Operating System File Creator | SOSF Creator", "version": "1.0.0"};
 
 // default functions
 
